@@ -17,6 +17,6 @@ dplyr - dplyr is a new package which provides a set of tools for efficiently man
 
 tidyr- Packages in the R language are a collection of R functions, compiled code, and sample data. 
 
-stringr - The stringr package provide a cohesive set of functions designed to make working with strings as easy as possible
+stringr - The stringr package provide a cohesive set of functions designed to make working with strings as easy as possible.
 
-
+Output images you can find it in ppt file.
